@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+backend/venv/
+
+# Build output
+dist/
+*.log
+
+# Python
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+*.pyo
+backend/.env
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+
+# Misc
+*.tmp

@@ -42,7 +42,7 @@ Speak into your microphone or upload an audio file — Vox Convert turns your vo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/vox-convert.git
+git clone https://github.com/himansinipanda/VOX-CONVERT---Voice-to-Text-Converter
 cd vox-convert
 ```
 
